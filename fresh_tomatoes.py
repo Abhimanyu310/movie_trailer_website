@@ -3,6 +3,9 @@ import os
 import re
 
 
+__author__ = 'silencer310'
+
+
 # Styles and scripting for the page
 main_page_head = '''
 <!DOCTYPE html>
